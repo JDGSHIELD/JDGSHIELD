@@ -1,16 +1,20 @@
-## Hi there 👋
+# Joseph DiGiuseppe
 
-<!--
-**JDGSHIELD/JDGSHIELD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manufacturing operator and ERP implementer who builds his own tools. Havertown, PA.
 
-Here are some ideas to get you started:
+- Team Lead Fabricator at Amuneal Manufacturing, a high-mix custom architectural metals shop. I build the systems the floor runs on.
+- Delivered 3 ERP implementations at Fulfil.io (1 solo).
+- Ran manufacturing, warehouse and e-commerce fulfillment at Tuft the World.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I build:** shop-floor tools with AI-assisted development. Pick-to-light assembly guidance, scan-to-print labeling, QA checks that compare part data to drawings, ERP/MES integrations (Epicor Kinetic API). Python, Google Apps Script, Raspberry Pi, Arduino, React Native.
+
+**Highlight:** on a 1,400-part sculpture fabrication, a QR/LED/label system I built held remakes to 2 parts (0.14%).
+
+**Projects here:**
+- tap-drill-chart: mobile tap-drill reference for machinists
+- tsa-predictor: forecasts weekly TSA passenger volume from public data
+
+**Links:**
+- Portfolio: [PORTFOLIO_URL]
+- LinkedIn: [LINKEDIN_URL]
+- Email: digiuseppe.joseph@gmail.com
