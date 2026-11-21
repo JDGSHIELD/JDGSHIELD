@@ -11,7 +11,7 @@ Manufacturing operator and ERP implementer who builds his own tools. Havertown, 
 **Highlight:** on a 1,400-part sculpture fabrication, a QR/LED/label system I built held remakes to 2 parts (0.14%).
 
 **Projects here:**
-- tap-drill-chart: mobile tap-drill reference for machinists
+- tap-drill-chart: mobile tap-drill reference for machinists (live: https://tapmap.josephdigiuseppe.fun/)
 - tsa-predictor: forecasts weekly TSA passenger volume from public data
 
 **Links:**
