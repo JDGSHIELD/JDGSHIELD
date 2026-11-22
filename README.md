@@ -15,6 +15,7 @@ Manufacturing operator and ERP implementer who builds his own tools. Havertown, 
 - tsa-predictor: forecasts weekly TSA passenger volume from public data
 
 **Links:**
-- Portfolio: https://www.regard.team/
+- Portfolio: https://projects.josephdigiuseppe.fun/
+- Regard: https://www.regard.team/
 - LinkedIn: https://www.linkedin.com/in/joseph-digiuseppe/
 - Email: digiuseppe.joseph@gmail.com
